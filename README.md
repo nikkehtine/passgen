@@ -2,6 +2,8 @@
 
 Command-line tool to generate passwords, written in Go.
 
+This repo is hosted on [GitLab](https://gitlab.com/nikkehtine/passgen) with a [GitHub mirror](https://github.com/nikkehtine/passgen). If you want to contribute, consider contributing on GitLab.
+
 ## Usage
 
 **TODO**
