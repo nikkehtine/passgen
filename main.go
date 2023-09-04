@@ -1,1 +1,3 @@
-package passgen
+package main
+
+func main() {}
