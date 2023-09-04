@@ -10,6 +10,7 @@ type GeneratorConfig struct {
 	exclude_ambiguous bool
 }
 
+// Generates a password based on provided config
 func Generate(config *GeneratorConfig) string {
 	return "TODO"
 }
