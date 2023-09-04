@@ -11,7 +11,7 @@ Command-line tool to generate passwords, written in Go.
 The only requirement is Go >= 1.21
 
 ```bash
-git clone https://github.com/nikkehtine/passgen
+git clone https://gitlab.com/nikkehtine/passgen
 cd passgen
 # You can run the program directly...
 go run .
